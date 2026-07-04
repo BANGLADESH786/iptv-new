@@ -1,1 +1,120 @@
 #EXTM3U
+#EXTINF:-1 tvg-name="FIFA" group-title="Sports",FIFA
+http://example.com/stream/fifa.m3u8
+#EXTINF:-1 tvg-name="FIFA Agun" group-title="Sports",FIFA Agun
+http://example.com/stream/fifa_agun.m3u8
+#EXTINF:-1 tvg-name="FIFA Live TV" group-title="Sports",FIFA Live TV
+http://example.com/stream/fifa_live.m3u8
+#EXTINF:-1 tvg-name="Live Sport" group-title="Sports",Live Sport
+http://example.com/stream/live_sport.m3u8
+#EXTINF:-1 tvg-name="Live Sport Football" group-title="Sports",Live Sport Football
+http://example.com/stream/live_sport_football.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 1 HD" group-title="Sports",Go3 Sport 1 HD
+http://example.com/stream/go3_sport1.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 2 HD" group-title="Sports",Go3 Sport 2 HD
+http://example.com/stream/go3_sport2.m3u8
+#EXTINF:-1 tvg-name="Go3 Sport 3 HD" group-title="Sports",Go3 Sport 3 HD
+http://example.com/stream/go3_sport3.m3u8
+#EXTINF:-1 tvg-name="G3 Sport 1 HD" group-title="Sports",G3 Sport 1 HD
+http://example.com/stream/g3_sport1.m3u8
+#EXTINF:-1 tvg-name="G3 Sport 2 HD" group-title="Sports",G3 Sport 2 HD
+http://example.com/stream/g3_sport2.m3u8
+#EXTINF:-1 tvg-name="G3 Sport 3 HD" group-title="Sports",G3 Sport 3 HD
+http://example.com/stream/g3_sport3.m3u8
+#EXTINF:-1 tvg-name="IPL 2026" group-title="Sports",IPL 2026
+http://example.com/stream/ipl2026.m3u8
+#EXTINF:-1 tvg-name="Star Sports 1 HD" group-title="Sports",Star Sports 1 HD
+http://example.com/stream/star_sports1.m3u8
+#EXTINF:-1 tvg-name="Bhab Football" group-title="Sports",Bhab Football
+http://example.com/stream/bhab_football.m3u8
+#EXTINF:-1 tvg-name="Spa Race Life" group-title="Sports",Spa Race Life
+http://example.com/stream/spa_race_life.m3u8
+#EXTINF:-1 tvg-name="GT World Challenge" group-title="Sports",GT World Challenge
+http://example.com/stream/gt_world.m3u8
+
+#EXTINF:-1 tvg-name="News Nation" group-title="News",News Nation
+http://example.com/stream/news_nation.m3u8
+#EXTINF:-1 tvg-name="24 Hours" group-title="News",24 Hours
+http://example.com/stream/24_hours.m3u8
+#EXTINF:-1 tvg-name="ABP News" group-title="News",ABP News
+http://example.com/stream/abp_news.m3u8
+#EXTINF:-1 tvg-name="DD News" group-title="News",DD News
+http://example.com/stream/dd_news.m3u8
+#EXTINF:-1 tvg-name="Star News" group-title="News",Star News
+http://example.com/stream/star_news.m3u8
+#EXTINF:-1 tvg-name="Bharat 24" group-title="News",Bharat 24
+http://example.com/stream/bharat24.m3u8
+#EXTINF:-1 tvg-name="Bloomberg Europe" group-title="News",Bloomberg Europe
+http://example.com/stream/bloomberg_eu.m3u8
+#EXTINF:-1 tvg-name="ET Now Swadesh" group-title="News",ET Now Swadesh
+http://example.com/stream/et_now.m3u8
+
+#EXTINF:-1 tvg-name="Colors Infinity HD" group-title="Movies & Entertainment",Colors Infinity HD
+http://example.com/stream/colors_infinity.m3u8
+#EXTINF:-1 tvg-name="Star Movies" group-title="Movies & Entertainment",Star Movies
+http://example.com/stream/star_movies.m3u8
+#EXTINF:-1 tvg-name="Star Movies HD" group-title="Movies & Entertainment",Star Movies HD
+http://example.com/stream/star_movies_hd.m3u8
+#EXTINF:-1 tvg-name="Select HD" group-title="Movies & Entertainment",Select HD
+http://example.com/stream/select_hd.m3u8
+#EXTINF:-1 tvg-name="Colors Cineplex HD" group-title="Movies & Entertainment",Colors Cineplex HD
+http://example.com/stream/colors_cineplex.m3u8
+#EXTINF:-1 tvg-name="FC Movies" group-title="Movies & Entertainment",FC Movies
+http://example.com/stream/fc_movies.m3u8
+#EXTINF:-1 tvg-name="Anmol Cinema 2" group-title="Movies & Entertainment",Anmol Cinema 2
+http://example.com/stream/anmol_cinema2.m3u8
+#EXTINF:-1 tvg-name="ABJY Dhakad" group-title="Movies & Entertainment",ABJY Dhakad
+http://example.com/stream/abjy_dhakad.m3u8
+#EXTINF:-1 tvg-name="Zoom TV" group-title="Movies & Entertainment",Zoom TV
+http://example.com/stream/zoom_tv.m3u8
+#EXTINF:-1 tvg-name="Zing" group-title="Movies & Entertainment",Zing
+http://example.com/stream/zing.m3u8
+#EXTINF:-1 tvg-name="Asianet" group-title="Movies & Entertainment",Asianet
+http://example.com/stream/asianet.m3u8
+#EXTINF:-1 tvg-name="Desi Videsi" group-title="Movies & Entertainment",Desi Videsi
+http://example.com/stream/desi_videsi.m3u8
+
+#EXTINF:-1 tvg-name="Makkah TV" group-title="Religious",Makkah TV
+http://example.com/stream/makkah_tv.m3u8
+#EXTINF:-1 tvg-name="Madina TV" group-title="Religious",Madina TV
+http://example.com/stream/madina_tv.m3u8
+#EXTINF:-1 tvg-name="Madani TV" group-title="Religious",Madani TV
+http://example.com/stream/madani_tv.m3u8
+#EXTINF:-1 tvg-name="Ikra TV" group-title="Religious",Ikra TV
+http://example.com/stream/ikra_tv.m3u8
+#EXTINF:-1 tvg-name="Hara Krishna" group-title="Religious",Hara Krishna
+http://example.com/stream/hara_krishna.m3u8
+#EXTINF:-1 tvg-name="Aastha" group-title="Religious",Aastha
+http://example.com/stream/aastha.m3u8
+#EXTINF:-1 tvg-name="Aastha Bhajan" group-title="Religious",Aastha Bhajan
+http://example.com/stream/aastha_bhajan.m3u8
+#EXTINF:-1 tvg-name="Aastha Gujarati" group-title="Religious",Aastha Gujarati
+http://example.com/stream/aastha_gujarati.m3u8
+
+#EXTINF:-1 tvg-name="Car District" group-title="Others & Testing",Car District
+http://example.com/stream/car_district.m3u8
+#EXTINF:-1 tvg-name="DD" group-title="Others & Testing",DD
+http://example.com/stream/dd.m3u8
+#EXTINF:-1 tvg-name="Backup" group-title="Others & Testing",Backup
+http://example.com/stream/backup.m3u8
+#EXTINF:-1 tvg-name="Telemon" group-title="Others & Testing",Telemon
+http://example.com/stream/telemon.m3u8
+#EXTINF:-1 tvg-name="Blast" group-title="Others & Testing",Blast
+http://example.com/stream/blast.m3u8
+#EXTINF:-1 tvg-name="Game Changer Test" group-title="Others & Testing",Game Changer Test
+http://example.com/stream/game_changer.m3u8
+#EXTINF:-1 tvg-name="Mardani Three" group-title="Others & Testing",Mardani Three
+http://example.com/stream/mardani_three.m3u8
+#EXTINF:-1 tvg-name="Avatar" group-title="Others & Testing",Avatar
+http://example.com/stream/avatar.m3u8
+#EXTINF:-1 tvg-name="Surengo" group-title="Others & Testing",Surengo
+http://example.com/stream/surengo.m3u8
+#EXTINF:-1 tvg-name="Unknown" group-title="Others & Testing",Unknown
+http://example.com/stream/unknown.m3u8
+#EXTINF:-1 tvg-name="Annon" group-title="Others & Testing",Annon
+http://example.com/stream/annon.m3u8
+#EXTINF:-1 tvg-name="Lotus" group-title="Others & Testing",Lotus
+http://example.com/stream/lotus.m3u8
+#EXTINF:-1 tvg-name="Song Song" group-title="Others & Testing",Song Song
+http://example.com/stream/song_song.m3u8
+
